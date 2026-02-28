@@ -1,4 +1,4 @@
-module github.com/gurunn/inject-lib
+module github.com/gurunn/inject
 
 go 1.26
 
