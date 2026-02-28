@@ -10,7 +10,7 @@ import (
 
 	"github.com/dgraph-io/badger/v3"
 	"github.com/getsentry/sentry-go"
-	"github.com/gurunn/inject-lib/logger"
+	"github.com/gurunn/inject/logger"
 	log "github.com/sirupsen/logrus"
 )
 
